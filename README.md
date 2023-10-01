@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @radenrafi
-- 👀 I’m interested in Game Development and Web Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Laravel Framework
 - 📫 Instagram : @radenrfi
